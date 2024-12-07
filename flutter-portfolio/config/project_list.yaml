@@ -1,0 +1,74 @@
+# orders matters
+
+- title: "Floating-Bubble-View"
+  description: |
+    🍀An Android library that adds floating bubbles to your home screen 🎨 
+    supports both XML and Jetpack Compose
+  technologies:
+    - "android"
+    - "kotlin"
+    - "java"
+    - "service"
+    - "window manager"
+    - "view binding"
+    - "jetpack compose"
+    - "xml"
+  type: "library"
+  is_pet: false
+  date_start: "Nov 1, 2021"
+  date_end: null
+  github_url: "https://github.com/TorryDo/Floating-Bubble-View"
+  play_store_url: null
+
+- title: "LH Dictionary"
+  description: |
+    A dictionary that helps you abc xyz blah blah blah blah lorem ipsum hello gaga lady killahs
+  technologies:
+    - 'android'
+    - 'jetpack compose'
+    - 'MVVM'
+    - 'SQLDelight'
+    - 'clean architecture'
+  type: 'app'
+  is_pet: false
+  date_start: "Feb 1, 2023"
+  date_end: "Apr 10, 2023"
+  github_url: null
+  play_store_url: "https://play.google.com/store/apps/details?id=com.langhance.dictionary"
+
+- title: 'Weather Visualiser'
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat 
+    nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+  technologies:
+    - 'android'
+    - 'MVI'
+    - 'SQLDelight'
+  type: 'app'
+  is_pet: true
+  date_start: "Nov 6, 2022"
+  date_end: "Oct 27, 2022"
+  github_url: "https://github.com/TorryDo/quiz-app"
+  play_store_url: null
+
+- title: 'Quiz App'
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat 
+    nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+  technologies:
+    - 'flutter'
+    - 'provider'
+    - 'hive'
+  type: 'app'
+  is_pet: true
+  date_start: "Nov 6, 2022"
+  date_end: "Nov 24, 2022"
+  github_url: "https://github.com/TorryDo/quiz-app"
+  play_store_url: null
+

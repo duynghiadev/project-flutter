@@ -1,0 +1,11 @@
+- name: 'facebook'
+  url: 'https://www.facebook.com/trido392'
+  logo_uri: 'logo/facebook.svg'
+
+- name: 'linkedIn'
+  url: 'https://www.linkedin.com/in/tridonguyen'
+  logo_uri: 'logo/linkedin.svg'
+
+- name: 'telegram'
+  url: 'https://t.me/tridonguyen'
+  logo_uri: 'logo/telegram.svg'

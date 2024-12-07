@@ -1,0 +1,33 @@
+- title: "Self Learning"
+  description: null
+  role: null
+  technologies: [ ]
+  date_start: "Jun 2, 2022"
+  date_end: null
+  is_freelanced: null
+
+
+- title: "Freelance React-Native Project"
+  description: |
+    Working in a React-Native project as a Freelancer.
+  role: 'mobile developer'
+  technologies:
+    - react native
+    - android
+    - gitlab
+    - jira
+    - slack
+    - scrum
+  date_start: "Apr 2, 2022"
+  date_end: "Jun 1, 2022"
+  is_freelanced: true
+
+
+- title: "Self Learning"
+  description: null
+  role: null
+  technologies: [ ]
+  date_start: "Sep 1, 2020"
+  date_end: "Apr 1, 2022"
+  is_freelanced: null
+
